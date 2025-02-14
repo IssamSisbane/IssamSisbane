@@ -11,7 +11,7 @@ Throughout my professional journey, I've had the opportunity to work on various 
 - **Programming languages**: `Python`, `Java`, `JavaScript`, `Typescript`
 - **Cloud technologies**: `Azure`, `Kubernetes`, `Docker`
 - **Frameworks**: `Vue.js`, `Loopback`, `Nuxt`, `Express`, `SpringBoot`
-- **DevOp**: `Ansible`, `Vagrant`, `Terraform`, `Gitlab`, `Kubernetes`
+- **DevOps**: `Ansible`, `Vagrant`, `Terraform`, `Gitlab`, `Kubernetes`
 
 ### Objectives ⚡
 In the long term, I aim to develop new solutions to make life easier for others, and I am committed to continuing my professional development to achieve this goal.
